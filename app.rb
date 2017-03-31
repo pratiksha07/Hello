@@ -5,6 +5,4 @@ get '/' do
 	 
 end
 
-get '/blah' do
-	'blah blah'
-end
+
